@@ -2,8 +2,8 @@
 
 ## Tested Cases
 - [x] Merged cells
-- [ ] Hidden cells
-- [ ] Cells decoration
-- [ ] Image inside
-- [ ] Formula inside
+- [x] Hidden cells
+- [x] Cells decoration
+- [x] Image inside
+- [x] Formula inside
 - [ ] Client files ?
