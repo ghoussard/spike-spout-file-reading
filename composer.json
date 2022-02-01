@@ -1,0 +1,11 @@
+{
+    "name": "akeneo/spike-spout-file-reading",
+    "autoload": {
+        "psr-4": {
+            "Akeneo\\SpikeSpoutFileReading\\": "src/"
+        }
+    },
+    "require": {
+        "box/spout": "^3.3.0"
+    }
+}
